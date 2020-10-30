@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 [![chen810's github stats](https://github-readme-stats.vercel.app/api?username=chen810&show_icons=true&theme=graywhite&hide_border=true&&hide_title=true)](https://github.com/chen810)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen810&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/chen810)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen810&show_icons=true&theme=graywhite&hide_border=true&hide=javascript,html,CSS,SCSS)](https://github.com/chen810)
