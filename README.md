@@ -20,6 +20,6 @@ Here are some ideas to get you started:
     This API comes from here:
     https://github.com/anuraghazra/github-readme-stats
 -->
-[![chen810's github stats](https://github-readme-stats.vercel.app/api?username=chen810&show_icons=true&theme=graywhite&hide_border=true&&hide_title=true)](https://github.com/chen810)
+[![lancholia's github stats](https://github-readme-stats.vercel.app/api?username=lancholia&show_icons=true&theme=graywhite&hide_border=true&&hide_title=true)](https://github.com/lancholia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen810&show_icons=true&theme=graywhite&hide_border=true&hide=javascript,html,CSS,SCSS&layout=compact)](https://github.com/chen810)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lancholia&show_icons=true&theme=graywhite&hide_border=true&hide=javascript,html,CSS,SCSS&layout=compact)](https://github.com/lancholia)
