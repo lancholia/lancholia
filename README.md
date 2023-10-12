@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 [![lancholia's github stats](https://github-readme-stats.vercel.app/api?username=lancholia&show_icons=true&theme=graywhite&hide_border=true&&hide_title=true)](https://github.com/lancholia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lancholia&show_icons=true&theme=graywhite&hide_border=true&hide=javascript,html,CSS,SCSS&layout=compact)](https://github.com/lancholia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lancholia&show_icons=true&theme=graywhite&hide_border=true&hide=html,CSS,SCSS&layout=compact)](https://github.com/lancholia)
