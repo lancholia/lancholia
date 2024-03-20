@@ -1,6 +1,7 @@
 # Hi there 👋
 
 * [LeetCode_CN](https://leetcode-cn.com/u/lancholia/)💦 I'm studying at LeetCode.
+* [Gitee](https://gitee.com/n4u/)😎我的Gitee站
 
 [![lancholia's github stats](https://github-readme-stats.vercel.app/api?username=lancholia&show_icons=true&theme=graywhite&hide_border=true&&hide_title=true)](https://github.com/lancholia)
 
